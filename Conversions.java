@@ -112,7 +112,7 @@ public class Conversions
             double kelvin = celsius + 273.15;
             System.out.println(celsius + " degrees celsius is " + kelvin + " degrees kelvin");
         }
-        if (selection == 8)
+        if (selection == 10)
         {
             //kelvin to celsius
             System.out.println("Enter Kelvin: ");
